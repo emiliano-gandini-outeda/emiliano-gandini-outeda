@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Emiliano Gandini
 
-I'm a Computer Engineering student at the Facultad de Ingeniería – Universidad de la República, based in Uruguay.
+I'm a Computer Engineering student at the Facultad de Ingeniería – Universidad de la República, based in Uruguay 🇺🇾.
 
 I specialize in **developing modern web applications**, with a strong focus on backend architecture, data analysis, and efficient data processing. One of my current projects is [InsightGrid](https://www.ego-services.com/insightgrid), a tool designed for automated report generation and data interaction.
 
@@ -53,8 +53,16 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
 ## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img height="150" src="https://streak-stats.demolab.com?user=emiliano-gandini-outeda&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliano-gandini-outeda&layout=compact&theme=radical" alt="Top Languages" />
+  <img 
+    src="https://streak-stats.demolab.com?user=emiliano-gandini-outeda&theme=radical&hide_border=false" 
+    alt="GitHub Streak" 
+    style="height: 180px; width: 350px; object-fit: contain;" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliano-gandini-outeda&layout=compact&theme=radical" 
+    alt="Top Languages" 
+    style="height: 180px; width: 350px; object-fit: contain;" 
+  />
 </div>
 
 ---
