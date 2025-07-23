@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Emiliano Gandini
 
-I'm a Computer Engineering student at the Facultad de Ingeniería – Universidad de la República, based in Uruguay 🇺🇾.
+I'm a Computer Engineering student at the Facultad de Ingeniería – Universidad de la República, based in Uruguay.
 
 I specialize in **developing modern web applications**, with a strong focus on backend architecture, data analysis, and efficient data processing. One of my current projects is [InsightGrid](https://www.ego-services.com/insightgrid), a tool designed for automated report generation and data interaction.
 
