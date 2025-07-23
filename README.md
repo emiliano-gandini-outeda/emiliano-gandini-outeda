@@ -30,7 +30,7 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
 
 ## 🚀 Featured Projects
 
-- 🔎 [InsightGrid](https://www.ego-services.com/insightgrid): Automated report generation platform built with FastAPI.  
+- 🔎 [InsightGrid](https://www.ego-services.com/insightgrid): Automated data analysis and report generation using Pandas platform built for business with FastAPI.  
 - 🤖 [DevBot](https://github.com/emiliano-gandini-outeda/devbot): A comprehensive Discord bot designed to streamline community management with powerful automation, integrations, and administrative tools.   
 
 ---
