@@ -18,7 +18,8 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
 - 🛠️ Currently learning:
   - **Django** (MTV pattern, ORM, class-based views)  
   - **System architecture**, focused on **monolithic applications**  
-  - **Security best practices** in backend development  
+  - **Security best practices** in backend development
+  - **Dart with Flutter** for multiplatform apps  
 - 🧰 Specialized in:
   - HTML & CSS  
   - Tailwind CSS  
