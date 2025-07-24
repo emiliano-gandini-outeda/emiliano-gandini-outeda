@@ -14,12 +14,7 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
 - 🌐 Web application developer with a backend-oriented focus  
 - 🧠 Experienced in **Python**, especially in data analysis and data treatment  
 - ⚙️ Building and integrating **REST APIs** using **FastAPI**  
-- 🔒 Implementing authentication flows, including **OAuth2 with Google**  
-- 🛠️ Currently learning:
-  - **Django** (MTV pattern, ORM, class-based views)  
-  - **System architecture**, focused on **monolithic applications**  
-  - **Security best practices** in backend development
-  - **Dart with Flutter** for multiplatform apps  
+- 🔒 Implementing authentication flows, including **OAuth2 with Google**    
 - 🧰 Specialized in:
   - HTML & CSS  
   - Tailwind CSS  
@@ -40,7 +35,8 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
 
 - Django in depth (class-based views, ORM, forms)  
 - System architecture for monolithic apps  
-- Secure backend development (auth, validation, session safety)  
+- Secure backend development (auth, validation, session safety)
+- Dart with Flutter for multiplatform apps
 
 ---
 
