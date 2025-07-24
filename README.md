@@ -51,23 +51,6 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
 
 ---
 
-## 📊 GitHub Stats
-
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img 
-    src="https://streak-stats.demolab.com?user=emiliano-gandini-outeda&theme=radical&hide_border=false" 
-    alt="GitHub Streak" 
-    style="height: 180px; width: 350px; object-fit: contain;" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliano-gandini-outeda&layout=compact&theme=radical" 
-    alt="Top Languages" 
-    style="height: 180px; width: 350px; object-fit: contain;" 
-  />
-</div>
-
----
-
 ## 🧰 Technologies & Tools
 
 <p align="left">
