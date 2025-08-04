@@ -43,7 +43,7 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
 ## 📫 Let's Connect
 
 - LinkedIn: [emiliano-gandini-outeda](https://www.linkedin.com/in/emiliano-gandini-outeda)  
-- Blog (WIP): [emiliano-gandini-outeda.github.io](https://www.emiliano-gandini-outeda.github.io)  
+- Blog: [emiliano-gandini-outeda.github.io](https://www.emiliano-gandini-outeda.github.io)  
 
 ---
 
