@@ -33,7 +33,7 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
 
 ## 📚 Currently Learning
 
-- Django in depth (class-based views, ORM, forms)  
+- Django in depth 
 - System architecture for monolithic apps  
 - Secure backend development (auth, validation, session safety)
 - Dart with Flutter for multiplatform apps
