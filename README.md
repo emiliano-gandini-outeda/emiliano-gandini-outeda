@@ -54,7 +54,7 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
   <!-- Python --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
   <!-- FastAPI --> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> 
   <!-- Django --> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> 
-  <!-- Django REST Framework --> <img src="https://img.shields.io/badge/Django%20REST%20Framework-blue?style=for-the-badge&labelColor=333333&logo=django&logoColor=white&color=blue" alt="Django REST Framework" /> 
+  <!-- Django REST Framework --> <img src="https://img.shields.io/badge/Django_REST_Framework-1E7F3E?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
   <!-- PostgreSQL --> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
   <!-- HTML5 --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> 
   <!-- CSS3 --> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> 
