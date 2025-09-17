@@ -4,7 +4,7 @@ I'm a Computer Engineering student at the Facultad de Ingeniería – Universida
 
 I specialize in **developing modern web applications**, with a strong focus on backend architecture, data analysis, and efficient data processing. One of my current projects is [InsightGrid](https://www.ego-services.com/insightgrid), a tool designed for automated report generation and data interaction.
 
-I'm actively looking to integrate myself into the **open source ecosystem**, and I'm open to collaborating on meaningful open source projects.
+I'm actively looking to integrate myself into the **open source ecosystem**, and I'm open to collaborating on open source projects.
 
 ---
 
@@ -14,7 +14,8 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
 - 🌐 Web application developer with a backend-oriented focus  
 - 🧠 Experienced in **Python**, especially in data analysis and data treatment  
 - ⚙️ Building and integrating **REST APIs** using **FastAPI**  
-- 🔒 Implementing authentication flows, including **OAuth2 with Google**    
+- 🔒 Implementing authentication flows, including **OAuth2 with Google**  
+- 📝 Deducated to write clear and detailed technical docs  
 - 🧰 Specialized in:
   - HTML & CSS  
   - Tailwind CSS  
@@ -49,14 +50,19 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
 
 ## 🧰 Technologies & Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/156354296?s=200&v=4" alt="FastAPI" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/59030169?s=200&v=4" alt="Alpine.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<p align="center">
+  <!-- Python --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
+  <!-- FastAPI --> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> 
+  <!-- Django --> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> 
+  <!-- Django REST Framework --> <img src="https://img.shields.io/badge/Django%20REST%20Framework-blue?style=for-the-badge&labelColor=333333&logo=django&logoColor=white&color=blue" alt="Django REST Framework" /> 
+  <!-- PostgreSQL --> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
+  <!-- HTML5 --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> 
+  <!-- CSS3 --> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> 
+  <!-- Tailwind CSS --> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> 
+  <!-- Alpine.js --> <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js" /> 
+  <!-- Git --> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
+  <!-- PostCSS --> <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" alt="PostCSS" /> 
+  <!-- Docker --> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> 
+  <!-- OAuth --> <img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth" /> 
+  <!-- Arch Linux --> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
 </p>
