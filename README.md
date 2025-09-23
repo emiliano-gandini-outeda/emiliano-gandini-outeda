@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student at the Facultad de Ingeniería – Universidad de la República, based in Uruguay 🇺🇾.
 
-I specialize in **developing modern web applications**, with a strong focus on backend architecture, data analysis, and efficient data processing. One of my current projects is [InsightGrid](https://www.ego-services.com/insightgrid), a tool designed for automated report generation and data interaction.
+I specialize in **developing modern web applications**, with a strong focus on backend architecture, data analysis, and efficient data processing. One of my current projects is [LibreCourse](https://github.com/emiliano-gandini-outeda/LibreCourse), an open-source Django application for creating, organizing, and collaborating on courses.
 
 I'm actively looking to integrate myself into the **open source ecosystem**, and I'm open to collaborating on open source projects.
 
