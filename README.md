@@ -70,12 +70,15 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+<table border="0" cellspacing="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=emiliano-gandini-outeda&show_icons=true&theme=react&count_private=true&hide_rank=true&title_color=ffffff&icon_color=306998&text_color=ffffff" alt="GitHub Stats" width="500" height="160" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliano-gandini-outeda&layout=compact&theme=react&hide=html,css&langs_count=6&title_color=ffffff&text_color=ffffff" alt="Top Languages" width="500" height="160" />
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <!-- Overall GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=emiliano-gandini-outeda&show_icons=true&theme=react&count_private=true&hide_rank=true&title_color=ffffff&icon_color=306998&text_color=ffffff" alt="GitHub Stats" width="500" height="160" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliano-gandini-outeda&layout=compact&theme=react&hide=html,css&langs_count=6&title_color=ffffff&text_color=ffffff" alt="Top Languages" width="500" height="160" />
-</div>
