@@ -58,6 +58,7 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
   <!-- PostgreSQL --> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
   <!-- HTML5 --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> 
   <!-- CSS3 --> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> 
+
   <!-- Tailwind CSS --> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> 
   <!-- Alpine.js --> <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js" /> 
   <!-- Git --> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
@@ -65,4 +66,14 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
   <!-- Docker --> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> 
   <!-- OAuth --> <img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth" /> 
   <!-- Arch Linux --> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <!-- Overall GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=emiliano-gandini-outeda&show_icons=true&theme=react&count_private=true&hide_rank=true&title_color=ffffff&icon_color=306998&text_color=ffffff" alt="GitHub Stats" width="500" height="160" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliano-gandini-outeda&layout=compact&theme=react&hide=html,css&langs_count=6&title_color=ffffff&text_color=ffffff" alt="Top Languages" width="500" height="160" />
 </p>
