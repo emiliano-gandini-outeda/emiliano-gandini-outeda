@@ -68,15 +68,5 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
   <!-- Arch Linux --> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Overall GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=emiliano-gandini-outeda&show_icons=true&theme=react&title_color=ffffff&text_color=ffffff&icon_color=306998" alt="GitHub Stats" width="500" height="160" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiliano-gandini-outeda&layout=compact&theme=react&hide=html,css&langs_count=6&title_color=ffffff&text_color=ffffff&icon_color=306998" alt="Top Languages" width="500" height="160" />
-</p>
-
 
 
