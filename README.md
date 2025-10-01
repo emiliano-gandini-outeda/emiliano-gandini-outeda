@@ -15,7 +15,8 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
 - 🧠 Experienced in **Python**, especially in data analysis and data treatment  
 - ⚙️ Building and integrating **REST APIs** using **FastAPI**  
 - 🔒 Implementing authentication flows, including **OAuth2 with Google**  
-- 📝 Deducated to write clear and detailed technical docs  
+- 📝 Dedicated to write clear and detailed technical docs  
+- 🤖 Automation builder with **n8n**  
 - 🧰 Specialized in:
   - HTML & CSS  
   - Tailwind CSS  
@@ -36,7 +37,7 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
 
 - Django in depth 
 - System architecture for monolithic apps  
-- Secure backend development (auth, validation, session safety)
+- Secure backend development (auth, validation, session safety)  
 - Dart with Flutter for multiplatform apps
 
 ---
@@ -56,6 +57,7 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
   <!-- Django --> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> 
   <!-- Django REST Framework --> <img src="https://img.shields.io/badge/Django_REST_Framework-1E7F3E?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
   <!-- PostgreSQL --> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
+  <!-- n8n --> <img src="https://img.shields.io/badge/n8n-1F1F1F?style=for-the-badge&logo=n8n&logoColor=E25A1C" alt="n8n" />
   <!-- HTML5 --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> 
   <!-- CSS3 --> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> 
 
@@ -67,6 +69,3 @@ I'm actively looking to integrate myself into the **open source ecosystem**, and
   <!-- OAuth --> <img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth" /> 
   <!-- Arch Linux --> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
 </p>
-
-
-
