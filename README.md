@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Emiliano Gandini
 
-I'm a Computer Engineering student at the Facultad de Ingeniería – Universidad de la República, based in Uruguay 🇺🇾.
+I'm a Computer Engineering student at the Facultad de Ingeniería in the Universidad de la República, based in Uruguay 🇺🇾.
 
 I specialize in **developing modern web applications**, with a strong focus on backend architecture, data analysis, and efficient data processing. One of my current projects is [LibreCourse](https://github.com/emiliano-gandini-outeda/LibreCourse), an open-source Django application for creating, organizing, and collaborating on courses.
 
