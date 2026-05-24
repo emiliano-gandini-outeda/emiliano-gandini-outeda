@@ -1,64 +1,31 @@
-# 👋 Hi there, I'm Emiliano Gandini
+Backend developer and data scientist based in Montevideo, Uruguay.
 
-I'm a Computer Engineering student at the Facultad de Ingeniería in the Universidad de la República, based in Uruguay 🇺🇾.
-
-I specialize in **developing modern web applications**, with a strong focus on backend architecture, data analysis, and efficient data processing. One of my current projects is [LibreCourse](https://github.com/emiliano-gandini-outeda/LibreCourse), an open-source Django application for creating, organizing, and collaborating on courses.
-
-I'm actively looking to integrate myself into the **open source ecosystem**, and I'm open to collaborating on open source projects.
+I work mostly in Python: data pipelines, ETL systems, REST APIs, and the infrastructure that ties it all together. My day-to-day involves pandas, FastAPI, PostgreSQL, Docker, and whatever else the problem actually needs.
 
 ---
 
-## 💡 About Me
+## What I'm building
 
-- 🎓 Computer Engineering student @ FING - UdelaR  
-- 🌐 Web application developer with a backend-oriented focus  
-- 🧠 Experienced in **Python**, especially in data analysis and data treatment  
-- ⚙️ Building and integrating **REST APIs** using **FastAPI**  
-- 🔒 Implementing authentication flows, including **OAuth2 with Google**  
-- 📝 Dedicated to write clear and detailed technical docs  
-- 🤖 Automation builder with **n8n**  
-- 🧰 Specialized in:
-  - HTML & CSS  
-  - Tailwind CSS  
-  - Alpine.js  
-  - Django  
-  - PostgreSQL  
+**[DBWarden](https://github.com/emiliano-gandini-outeda/DBWarden)**: Django-like migration management for FastAPI/SQLAlchemy projects. Multi-database support, dev/prod DB separation, SQL translation layer. Available on PyPI.
+
+**InsightGrid**: ETL platform built for business data. Handles large XLSX/CSV/XML files with streaming processing and real-time progress. FastAPI + Celery + Redis + PostgreSQL on the backend, Vue 3 on the front. Still in progress.
+
+**[LibreCourseUY](https://github.com/LibreCourseUY)**: Open source organization promoting the open source ecosystem in Uruguay. Multiple services in production on a self-hosted VPS with Docker, Traefik, and GitHub Actions CI/CD.
 
 ---
 
-## 🚀 Featured Projects
+## Open source
 
-- 🔎 [InsightGrid](https://www.ego-services.com/insightgrid): Automated data analysis and report generation using Pandas platform built for business with FastAPI.  
-- 🤖 [devBot](https://github.com/emiliano-gandini-outeda/devbot): A comprehensive Discord bot designed to streamline community management with powerful automation, integrations, and administrative tools.   
-
----
-
-## 📚 Currently Learning
-
-- Django in depth 
-- System architecture for monolithic apps  
-- Secure backend development (auth, validation, session safety)  
-- Dart with Flutter for multiplatform apps
+Co-maintainer of [benavlabs/FastAPI-boilerplate](https://github.com/benavlabs/FastAPI-boilerplate), an async FastAPI template with SQLAlchemy 2.0, Pydantic V2, PostgreSQL and Redis.
 
 ---
 
-## 🧰 Technologies & Tools
+## Stack
 
-<p align="center">
-  <!-- Python --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
-  <!-- FastAPI --> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> 
-  <!-- Django --> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> 
-  <!-- Django REST Framework --> <img src="https://img.shields.io/badge/Django_REST_Framework-1E7F3E?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-  <!-- PostgreSQL --> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> 
-  <!-- n8n --> <img src="https://img.shields.io/badge/n8n-1F1F1F?style=for-the-badge&logo=n8n&logoColor=E25A1C" alt="n8n" />
-  <!-- HTML5 --> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> 
-  <!-- CSS3 --> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> 
+Python, FastAPI, Django, SQLAlchemy, pandas, numpy, Prefect, Celery, Redis, PostgreSQL, Docker, Traefik, Vue 3, TypeScript.
 
-  <!-- Tailwind CSS --> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> 
-  <!-- Alpine.js --> <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js" /> 
-  <!-- Git --> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
-  <!-- PostCSS --> <img src="https://img.shields.io/badge/PostCSS-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white" alt="PostCSS" /> 
-  <!-- Docker --> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> 
-  <!-- OAuth --> <img src="https://img.shields.io/badge/OAuth-EB5424?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth" /> 
-  <!-- Arch Linux --> <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
-</p>
+Arch Linux + Hyprland daily. nvim.
+
+---
+
+Open to collaborating on interesting open source projects.
